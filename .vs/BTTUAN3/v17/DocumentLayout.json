@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UDC\\BTTUAN3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|D:\\UDC\\BTTUAN3\\bttuan3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|solutionrelative:bttuan3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|d:\\udc\\bttuan3\\bttuan3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|solutionrelative:bttuan3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|D:\\UDC\\BTTUAN3\\bttuan3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|solutionrelative:bttuan3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|D:\\UDC\\BTTUAN3\\bttuan3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|solutionrelative:bttuan3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|D:\\UDC\\BTTUAN3\\bttuan3\\database\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8987AB2B-BDD1-405D-996A-8FBB3C45F81A}|BTTUAN3\\BTTUAN3.csproj|solutionrelative:bttuan3\\database\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Form1.cs",
+              "RelativeDocumentMoniker": "BTTUAN3\\Form1.cs",
+              "ToolTip": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Form1.cs [Design]",
+              "RelativeToolTip": "BTTUAN3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:45:36.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Database\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "BTTUAN3\\Database\\ProductDbContext.cs",
+              "ToolTip": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Database\\ProductDbContext.cs",
+              "RelativeToolTip": "BTTUAN3\\Database\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:05:09.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BTTUAN3\\Models\\Product.cs",
+              "ToolTip": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Models\\Product.cs",
+              "RelativeToolTip": "BTTUAN3\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T03:26:40.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Form1.cs",
+              "RelativeDocumentMoniker": "BTTUAN3\\Form1.cs",
+              "ToolTip": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Form1.cs",
+              "RelativeToolTip": "BTTUAN3\\Form1.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAiwLEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:50:05.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BTTUAN3\\Form1.Designer.cs",
+              "ToolTip": "D:\\UDC\\BTTUAN3\\BTTUAN3\\Form1.Designer.cs",
+              "RelativeToolTip": "BTTUAN3\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:26:26.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
